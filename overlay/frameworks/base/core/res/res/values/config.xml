@@ -96,7 +96,7 @@
     <color name="config_defaultNotificationColor">#ffffffff</color>
 
     <!-- Default LED on time for notification LED in milliseconds. -->
-    <integer name="config_defaultNotificationLedOn">500</integer>
+    <integer name="config_defaultNotificationLedOn">700</integer>
 
     <!-- Default LED off time for notification LED in milliseconds. -->
     <integer name="config_defaultNotificationLedOff">1200</integer>
